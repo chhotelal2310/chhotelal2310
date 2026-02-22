@@ -3,7 +3,7 @@
   Hi, I'm Chhotelal Patel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | Problem Solver 💻</h3>
+<h3 align="center">🚀 Software Developer | MERN Stack Specialist | Problem Solver 💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Clean+Code+Advocate&center=true&width=500&height=50&color=00FF00&vCenter=true&size=25">
@@ -23,9 +23,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiku3203&show_icons=true&locale=en&layout=compact&theme=radical" alt="amiku3203" width="300"/>
 
-I'm a passionate **Full Stack Developer** with **2.5+ years** of experience crafting scalable web applications. I thrive on turning complex problems into elegant solutions and enjoy working across the entire development stack.
+I'm a passionate **Software Developer** with **1.5+ years** of experience crafting scalable web applications. I thrive on turning complex problems into elegant solutions and enjoy working across the entire development stack.
 
-- 🔭 Currently working at **Octopus Technology** as Full Stack Developer
+- 🔭 Currently working at **Tarality Ecosytem Pvt Ltd** as Full Stack Developer
 - 🌱 Mastering **Microservices Architecture** and **System Design**
 - 💡 Solved **600+ coding problems** across various platforms
 - 🏆 **CodeKaze 2023:** AIR 5968 | College Rank 1
