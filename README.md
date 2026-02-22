@@ -1,200 +1,131 @@
 <h1 align="center">
-  Hi, I'm Chhotelal Patel 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Chhotelal Patel
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">
-  Full Stack Developer (MERN) | Building Scalable Products | Problem Solver
-</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | Problem Solver 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Clean+Code+Advocate;400%2B+DSA+Problems+Solved&center=true&width=550&height=45">
-</p>
-
-<p align="center">
-  <a href="https://github.com/chhotelal2310">
-    <img src="https://komarev.com/ghpvc/?username=chhotelal2310&label=Profile%20Views&color=blue&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+Node+Developer;Clean+Code+Advocate&center=true&width=500&height=50&color=00FF00&vCenter=true&size=25">
 </p>
 
 ---
 
-# 💼 Professional Summary
+## 👨‍💻 About Me
 
-Full Stack Developer with hands-on experience building **scalable, secure, and production-grade MERN stack applications**.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhotelal2310&show_icons=true&locale=en&layout=compact&theme=radical" width="300"/>
 
-Currently working on a **Crypto Exchange Platform (Tarality)**, contributing to real-world systems used by actual users.
-
-Strong in:
-
-• Scalable system development  
-• REST API architecture  
-• Authentication & security  
-• Performance optimization  
-• Clean, maintainable code  
-
-Solved **400+ DSA problems**, demonstrating strong problem-solving ability required in product companies.
+🎓 B.Tech in Computer Science Engineering (2020–2024)  
+💼 Full Stack Developer at **Tarality Ecosystems Pvt. Ltd. (Noida)**  
+🌱 Skilled in building scalable MERN stack applications  
+💡 Solved **400+ coding problems** across platforms  
+🏆 5⭐ in C++ on HackerRank  
+⚡ Strong in Data Structures & Algorithms  
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
-React.js • Redux Toolkit • JavaScript • Tailwind CSS • Material UI • Bootstrap
+### 💻 Languages
+C++ | JavaScript | HTML | CSS | SQL | Tailwind CSS  
 
-### Backend
-Node.js • Express.js • REST APIs • JWT Authentication
+### ⚛️ Frontend
+React.js | Redux Toolkit | React Router | Material UI | Bootstrap  
 
-### Database
-MongoDB • MySQL
+### 🔧 Backend
+Node.js | Express.js | REST APIs | JWT Authentication  
 
-### Tools
-Git • GitHub • Postman • VS Code • TanStack Query
+### 🗄️ Databases
+MongoDB | MySQL  
 
-### Languages
-C++ • JavaScript • SQL
-
----
-
-# 💼 Experience
-
-## Full Stack Developer — Tarality Ecosystems Pvt. Ltd.
-Noida | Dec 2024 – Present
-
-• Developing and maintaining production Crypto Exchange platform  
-• Building secure REST APIs with Node.js & Express  
-• Improving performance, fixing bugs, optimizing backend  
-• Creating responsive UI using React.js  
-
-Tech Used: React.js, Node.js, MongoDB, Express.js
+### 🛠️ Tools
+Git | GitHub | Postman | VS Code | TanStack Query  
 
 ---
 
-## MERN Stack Developer Trainee — Jspider
-Noida | Jun 2024 – Nov 2024
+## 💼 Experience
 
-• Built multiple full stack applications  
-• Strengthened backend architecture and frontend integration  
+### 🏢 Tarality Ecosystems Pvt. Ltd. | Full Stack Developer  
+📍 Noida | Dec 2024 – Present  
 
----
-
-# 🚀 Featured Projects
-
-## Crypto Exchange Platform
-https://tarality.com
-
-• Secure crypto trading platform  
-• JWT authentication & protected routes  
-• Scalable architecture  
-
-Tech: MERN Stack, Redux Toolkit, Material UI
+- Developed and maintained scalable **Crypto Exchange platform (Tarality.com)**  
+- Built secure REST APIs using Node.js & Express  
+- Improved performance & fixed bugs following clean code practices  
+- Worked on responsive UI using React.js & Tailwind CSS  
 
 ---
 
-## Trake and Travel (Full Stack)
-Live: https://trakeandtravel.vercel.app/  
-GitHub: https://github.com/chhotelal2310/Trake-and-Travel  
+### 🎓 Jspider Software Training Institute | MERN Stack Developer (Training)  
+📍 Noida | Jun 2024 – Nov 2024  
 
-Features:
-
-• Authentication & authorization  
-• Tour booking system  
-• Weather integration  
-• Reviews and ratings  
-
-Tech: MERN Stack
+- Hands-on development with React, Node.js, MongoDB  
+- Built dynamic and responsive full-stack applications  
+- Strengthened backend & frontend integration skills  
 
 ---
 
-## Weather App
-Live: https://weather-app-nu-ecru.vercel.app/  
-GitHub: https://github.com/chhotelal2310/Weather-App  
+## 🚀 Projects
 
-• Real-time weather data  
-• OpenWeather API integration  
+### 💰 Tarality Crypto Exchange  
+🔗 https://tarality.com  
 
-Tech: HTML, CSS, JavaScript
+**Tech Stack:** React.js, Vite, Material UI, Redux Toolkit, Node.js, Express.js, MongoDB  
 
----
-
-# 🧠 Problem Solving & Achievements
-
-• Solved 400+ DSA problems  
-• 5⭐ in C++ on HackerRank  
-• Top 10% CodeChef  
-• Flipkart Grid 5.0 Qualified  
-• Top ranker on GeeksforGeeks (College)
+- Developed secure and scalable crypto trading UI  
+- Implemented JWT authentication  
+- Pixel-perfect UI with optimized performance  
 
 ---
 
-# 📊 GitHub Analytics
+### ✈️ Trake and Travel  
+🔗 Live: https://trakeandtravel.vercel.app/  
+🔗 GitHub: https://github.com/chhotelal2310/Trake-and-Travel  
 
-<p align="center">
+**Tech Stack:** MERN Stack  
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chhotelal2310&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chhotelal2310&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhotelal2310&theme=github-dark&hide_border=true"/>
+- User authentication & authorization  
+- Weather check & location tracking  
+- Tour booking & review system  
+- Responsive UI using Material UI  
 
 ---
 
-# 🏆 Most Used Languages
+### 🌦️ Weather Cast App  
+🔗 Live: https://weather-app-nu-ecru.vercel.app/  
+🔗 GitHub: https://github.com/chhotelal2310/Weather-App  
 
-<p align="center">
+**Tech Stack:** HTML, CSS, JavaScript, OpenWeather API  
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhotelal2310&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Coding Profiles
-
-LeetCode:  
-https://leetcode.com/u/chhotelal_23/
-
-GeeksforGeeks:  
-https://auth.geeksforgeeks.org/user/chhotupatel705/practice
-
-CodeChef:  
-https://www.codechef.com/users/chhotelal_23
-
-Codeforces:  
-https://codeforces.com/profile/Chhotelal_23
-
-HackerRank:  
-https://www.hackerrank.com/profile/chhotupatel705
+- Displays temperature, humidity, wind speed  
+- Responsive UI design  
 
 ---
 
-# 📫 Contact Me
+## 🏆 Achievements
 
-Email: chhotupatel705@gmail.com  
-
-LinkedIn:  
-https://www.linkedin.com/in/chhotelal-patel-6106b0212/
-
-GitHub:  
-https://github.com/chhotelal2310/
+- ⭐ 5 Star in C++ on HackerRank  
+- 🏅 Top 10% in CodeChef  
+- 🏆 Qualified Flipkart Grid 5.0 Round 1.1  
+- 💡 400+ Problems solved (LeetCode, GFG, CodeChef, Codeforces)  
 
 ---
 
-# 💡 What I Bring to Product Companies
+## 📫 Connect With Me
 
-✔ Production-level MERN experience  
-✔ Strong DSA and problem solving  
-✔ Clean, scalable code practices  
-✔ Real-world project experience  
-✔ Fast learner and ownership mindset  
+📧 Email: chhotupatel705@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/chhotelal-patel-6106b0212/  
+🐙 GitHub: https://github.com/chhotelal2310  
+💻 LeetCode: https://leetcode.com/u/chhotelal_23/  
+📊 GeeksforGeeks: https://auth.geeksforgeeks.org/user/chhotupatel705/practice  
+🍴 CodeChef: https://www.codechef.com/users/chhotelal_23  
+⚡ Codeforces: https://codeforces.com/profile/Chhotelal_23  
+🏅 HackerRank: https://www.hackerrank.com/profile/chhotupatel705  
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+<div align="center">
+
+⭐️ From [chhotelal2310](https://github.com/chhotelal2310)
+
+</div>
