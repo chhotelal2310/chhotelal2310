@@ -25,7 +25,7 @@
 
 I'm a passionate **Software Developer** with **1.5+ years** of experience crafting scalable web applications. I thrive on turning complex problems into elegant solutions and enjoy working across the entire development stack.
 
-- 🔭 Currently working at **Tarality Ecosytem Pvt Ltd** as Full Stack Developer
+- 🔭 Currently working at **Tarality Ecosytem Pvt Ltd** as Software Developer
 - 🌱 Mastering **Microservices Architecture** and **System Design**
 - 💡 Solved **600+ coding problems** across various platforms
 - 🏆 **CodeKaze 2023:** AIR 5968 | College Rank 1
