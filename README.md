@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm Amit Kumar
+  Hi, I'm Chhotelal Patel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | Problem Solver 💻</h3>
