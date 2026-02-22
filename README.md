@@ -4,191 +4,164 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | Crypto Exchange Developer 💻</h3>
+<h3 align="center">🚀 Software Developer | MERN Stack Developer | Full Stack Engineer 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Crypto+Exchange+Developer;Problem+Solver;Clean+Code+Advocate&center=true&width=500&height=50&color=00FF00&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+MERN+Developer;React+Node+MongoDB+Expert;Problem+Solver;Clean+Code+Advocate&center=true&width=500&height=45&color=00FF00&vCenter=true&size=22">
 </p>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=chhotelal2310&label=Profile%20Views&color=blue&style=flat-square)
-![Followers](https://img.shields.io/github/followers/chhotelal2310?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/chhotelal2310?label=Stars&style=social)
+---
 
-</div>
+## 👨‍💻 About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhotelal2310&show_icons=true&locale=en&layout=compact&theme=radical" alt="chhotelal2310" width="300"/>
+
+💼 Software Developer at **Tarality Ecosystems Pvt Ltd**  
+🎓 B.Tech Computer Science Engineering (2024 Graduate)  
+🚀 MERN Stack Developer with real-world production experience  
+🧠 Solved **400+ coding problems** across platforms  
+🌱 Currently learning **System Design & Microservices**  
+⚡ Passionate about building scalable and secure applications  
 
 ---
 
-# 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhotelal2310&show_icons=true&locale=en&layout=compact&theme=radical" alt="stats" width="300"/>
-
-💼 Full Stack Developer with real-world experience building scalable applications  
-
-🚀 Currently working at **Tarality Ecosystems Pvt Ltd** as Full Stack Developer  
-
-🌐 Working on real-world **Crypto Exchange Platform (Tarality.com)**  
-
-💡 Solved **400+ DSA problems** on LeetCode, GFG, CodeChef  
-
-🏆 Qualified **Flipkart Grid 5.0 Round 1.1**  
-
-⭐ 5★ HackerRank in C++  
-
-🎯 Strong in **React, Node.js, MongoDB, System Design**
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Frontend
+### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
----
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-## ⚙️ Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-
----
-
-## 🗄️ Database
+### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## 🧰 Tools
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-# 💼 Experience
+## 💼 Professional Experience
 
-## 🚀 Tarality Ecosystems Pvt Ltd | Full Stack Developer  
-📅 Dec 2024 – Present | Noida  
+### 🏢 Tarality Ecosystems Pvt Ltd | Full Stack Developer  
+📍 Noida | 🗓️ Dec 2024 – Present  
 
-• Developed scalable **Crypto Exchange Platform**  
-
-• Built secure UI using React.js, Redux, Material UI  
-
-• Developed REST APIs using Node.js and Express  
-
-• Improved performance and fixed critical bugs  
-
-• Used MongoDB for secure and efficient data storage  
-
-🌐 Live: https://tarality.com
+- Developed scalable **Crypto Exchange platform**
+- Built frontend using **React.js, Redux Toolkit, Material UI**
+- Developed backend using **Node.js, Express.js, MongoDB**
+- Fixed bugs, optimized performance, improved scalability
+- Followed clean architecture and best coding practices
 
 ---
 
-## 🎓 Jspider Software Training Institute | MERN Stack Developer (Training)  
-📅 Jun 2024 – Nov 2024  
+## 🚀 Projects
 
-• Built multiple full-stack applications  
+### 🔐 Tarality Crypto Exchange
+Tech: React.js, Node.js, MongoDB, Redux Toolkit, JWT  
+- Built secure and scalable crypto trading UI  
+- Implemented authentication and protected routes  
+- Improved performance and UI responsiveness  
 
-• Learned React, Node, MongoDB  
-
-• Developed real-world projects  
-
----
-
-# 🚀 Featured Projects
-
-## 💰 Tarality Crypto Exchange  
-Tech: React, Redux, Node.js, MongoDB  
-
-• Developed Crypto trading UI  
-
-• Secure authentication using JWT  
-
-• Responsive and scalable architecture  
-
-🌐 https://tarality.com
+🔗 https://tarality.com/
 
 ---
 
-## ✈️ Trake and Travel  
-Tech: MERN Stack  
+### ✈️ Trake and Travel (Full Stack App)
 
-• Authentication system  
+Tech: React.js, Node.js, MongoDB  
 
-• Tour booking system  
+Features:
+- Authentication system
+- Weather integration
+- Tour booking system
+- Reviews and ratings
 
-• Weather integration  
-
-• Review & rating system  
-
-🌐 Live: https://trakeandtravel.vercel.app  
-💻 Code: https://github.com/chhotelal2310/Trake-and-Travel  
-
----
-
-## 🌦️ Weather App  
-Tech: HTML, CSS, JavaScript  
-
-• Live weather using OpenWeather API  
-
-• Responsive UI  
-
-🌐 Live: https://weather-app-nu-ecru.vercel.app  
-💻 Code: https://github.com/chhotelal2310/Weather-App  
+🔗 Live: https://trakeandtravel.vercel.app/  
+🔗 GitHub: https://github.com/chhotelal2310/Trake-and-Travel  
 
 ---
 
-# 🏆 Achievements
+### 🌦️ Weather App
 
-🏅 5★ HackerRank in C++  
+Tech: HTML, CSS, JavaScript, OpenWeather API  
 
-🏅 Top 10% CodeChef programmers  
+Features:
+- Live weather data
+- Temperature, humidity, wind
+- Responsive UI
 
-🏅 Qualified Flipkart Grid 5.0  
-
-🏅 400+ DSA problems solved  
-
-🏅 Top ranker on GeeksforGeeks  
+🔗 Live: https://weather-app-nu-ecru.vercel.app/  
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 Achievements
+
+⭐ 5 Star in HackerRank (C++)  
+⭐ Top 10% CodeChef Global Ranking  
+⭐ Qualified Flipkart Grid Round 1.1  
+⭐ Top coder in GeeksforGeeks college ranking  
+⭐ Solved 400+ DSA problems  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chhotelal2310&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chhotelal2310&show_icons=true&theme=radical&count_private=true" height="170">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chhotelal2310&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chhotelal2310&theme=radical" height="170">
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chhotelal-patel-6106b0212/)
+<a href="mailto:chhotupatel705@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)](https://github.com/chhotelal2310)
+<a href="https://www.linkedin.com/in/chhotelal-patel-6106b0212/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/chhotelal_23/)
+<a href="https://github.com/chhotelal2310">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:chhotupatel705@gmail.com)
+<a href="https://leetcode.com/u/chhotelal_23/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-</div>
+<a href="https://auth.geeksforgeeks.org/user/chhotupatel705/practice">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/chhotelal_23">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-⭐️ From Chhotelal Patel | MERN Stack Developer
+💡 *"First, solve the problem. Then, write the code."*
+
+⭐ From Chhotelal Patel
 
 </div>
