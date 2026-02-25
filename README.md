@@ -53,7 +53,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Tarality Ecosystems Pvt Ltd | Full Stack Developer  
+### 🏢 Tarality Ecosystems Pvt Ltd | Software Developer  
 📍 Noida | 🗓️ Dec 2024 – Present  
 
 - Developed scalable **Crypto Exchange platform**
