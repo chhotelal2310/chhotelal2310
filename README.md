@@ -15,6 +15,7 @@
 ## 👨‍💻 About Me
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhotelal2310&show_icons=true&locale=en&layout=compact&theme=radical" alt="chhotelal2310" width="300"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhotelal2310&show_icons=true&locale=en&layout=compact&theme=radical" alt="chhotelal2310" width="300"/>
 
 
 
