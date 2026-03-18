@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">🚀 Software Developer | MERN Stack Developer | Full Stack Engineer 💻</h3>
+<h3 align="center">🚀 Software Developer | MERN Stack Developer 💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+MERN+Developer;React+Node+MongoDB+Expert;Problem+Solver;Clean+Code+Advocate&center=true&width=500&height=45&color=00FF00&vCenter=true&size=22">
@@ -25,6 +25,8 @@
 🧠 Solved **400+ coding problems** across platforms  
 🌱 Currently learning **Genrative AI** 
 ⚡ Passionate about building scalable and secure applications  
+
+---
 
 ## 🛠️ Tech Stack
 
