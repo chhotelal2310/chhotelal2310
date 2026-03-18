@@ -23,7 +23,7 @@
 🎓 B.Tech Computer Science Engineering (2024 Graduate)  
 🚀 MERN Stack Developer with real-world production experience  
 🧠 Solved **400+ coding problems** across platforms  
-🌱 Currently learning **Genrative AI** 
+🌱 Currently learning **Genrative AI** <br>
 ⚡ Passionate about building scalable and secure applications  
 
 ---
