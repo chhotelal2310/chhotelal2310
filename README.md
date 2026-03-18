@@ -26,8 +26,6 @@
 🌱 Currently learning **Genrative AI** 
 ⚡ Passionate about building scalable and secure applications  
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
